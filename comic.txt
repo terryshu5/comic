@@ -2,3 +2,4 @@ touch
 cross game
 miyuki
 rough
+mix
