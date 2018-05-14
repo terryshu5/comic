@@ -2,3 +2,6 @@ touch
 cross game
 miyuki
 rough
+mix
+katsu
+h2
